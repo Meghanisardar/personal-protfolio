@@ -1,6 +1,6 @@
   =>  Template Name    : Sardar Meghani - Developer Portfolio 
 
-  =>  Template Link    : https://htmlcodex.com/developer-portfolio-template
+  =>  Template Link    : https://htmlcodex.com/developer-portfolio
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
