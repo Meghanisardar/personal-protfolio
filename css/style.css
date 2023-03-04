@@ -156,7 +156,9 @@ a:focus {
     transition: .5s;
     
 }
-
+.navbar .navbar-brand:hover{
+    color: #EF233C;
+}
 .navbar .navbar-brand img {
     max-width: 100%;
     max-height: 40px;
@@ -207,7 +209,7 @@ a:focus {
 
     .navbar-light .navbar-nav .nav-link:hover,
     .navbar-light .navbar-nav .nav-link.active {
-        color: #111111;
+        color: #EF233C;
     }
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
@@ -223,6 +225,9 @@ a:focus {
     }
     
     .navbar .navbar-brand {
+        color: #EF233C;
+    }
+    .navbar .navbar-brand :hover {
         color: #EF233C;
     }
     
